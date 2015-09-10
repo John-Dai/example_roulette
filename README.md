@@ -8,6 +8,6 @@ John Dai (rd122), Ted Yavuzkurt (tdy)
 
 3. We created extra classes such as BetList which might not have been essential but makes adding new features easier.
 
-4. We prefer our refactored code becuase it is clearer to read and extend.
+4. We prefer our refactored code because it is clearer to read and extend.
 
 In order to extend the functionality (add a new bet) a new subclass of Bet is created, the abstract functions are implemented, and an instance of the new subclass is added to the BetList class.
